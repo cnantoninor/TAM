@@ -8,26 +8,33 @@ The AI Alchemical Mirror examines how artificial intelligence serves as a reflec
 
 ## Articles
 
-### TAM1: ⚗️The AI Mirror🪞
+### TAM0: ⚗️The AI Mirror🪞
 **Published**: July 19, 2025  
 **Theme**: Essays on the intersection of AI, coding, philosophy, and spirituality  
 **Description**: Exploring technology as a "mirror for the timeless questions of human consciousness"  
-**Read**: [On Substack](https://antoninorau.substack.com/)
+**Read**: [On Substack](https://antoninorau.substack.com/p/coming-soon)
 
-### TAM2: AI, Models, and (Meta) Metaphors 🤖🪞😲
+### TAM1: AI, Models, and (Meta) Metaphors 🤖🪞😲
 **Published**: July 19, 2025  
 **Theme**: A critical reflection on opportunities and systemic risks  
 **Description**: Deep dive into technology, philosophy, AI, spirituality, and culture  
-**Read**: [On Substack](https://antoninorau.substack.com/)
+**Read**: [On Substack](https://antoninorau.substack.com/p/ai-models-and-meta-metaphors)
 
-### TAM3: From Eikasia to Noesis: What Plato Can Teach AI 🏛️
+### TAM2: From Eikasia to Noesis: What Plato Can Teach AI 🏛️
 **Published**: July 29, 2025  
 **Theme**: The Stochastic Parrot on Plato's Ladder—Where Do Language Models Stall?  
 **Description**: Philosophical exploration of AI's cognitive limitations through Plato's epistemology  
-**Read**: [On Substack](https://antoninorau.substack.com/)
+**Read**: [On Substack](https://antoninorau.substack.com/p/from-eikasia-to-noesis-what-plato)
+
+### TAM3: AI Changed How I Delete Code And That Changes Everything
+**Published**: August 10, 2025  
+**Theme**: The impact of AI on software development practices  
+**Description**: Examining how AI has transformed the way developers approach code deletion and maintenance  
+**Read**: [On Substack](https://antoninorau.substack.com/p/ai-changed-how-i-delete-codeand-that)
+
 
 ### TAM4: From Vibe Coding to Vibe Designing
-**Published**: August 10, 2025  
+**Published**: August 17, 2025  
 **Theme**: Why the future of AI is less about speed and more about shaping the right problems to solve  
 **Description**: Moving beyond rapid code generation to using AI as a cognitive lever for deeper problem understanding and intentional design  
 **Read**: [On Substack](https://antoninorau.substack.com/p/from-vibe-coding-to-vibe-designing)
@@ -77,10 +84,4 @@ This repository serves as a companion to the published articles. Issues and disc
 ## Connect
 
 - **Substack**: [The AI Alchemical Mirror](https://antoninorau.substack.com/)
-- **Author**: Antonino Rau
-
----
-
-*"The teams that win won't just be the fastest—they'll be the clearest."* - TAM4
-
-*"Our architectures are stories we tell about the world."* - TAM5
+- **Author**: [Antonino Rau](https://www.linkedin.com/in/antoninorau/)
